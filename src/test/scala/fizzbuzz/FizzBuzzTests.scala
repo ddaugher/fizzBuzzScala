@@ -14,4 +14,7 @@ class FizzBuzzTests extends FunSuite {
     assert( c.fizzbuzz(2) === "2" )
   }
 
+  test("fizzbuzz returns 'fizz' when argument is multiple of 3") {
+    assert( c.fizzbuzz(3) === "fizz" )
+  }
 }
