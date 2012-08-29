@@ -61,19 +61,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FizzBuzz.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzz.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
+            <state line="10" column="9" selection-start="250" selection-end="250" vertical-scroll-proportion="0.2706767">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTests.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FizzBuzzTests.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="33" selection-start="146" selection-end="146" vertical-scroll-proportion="0.21654135">
+            <state line="17" column="45" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,8 +96,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/FizzBuzz/FizzBuzz.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/FizzBuzzTests.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/FizzBuzz/FizzBuzzTests.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" />
       </list>
     </option>
   </component>
@@ -443,16 +443,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
+        <state line="17" column="45" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="146" selection-end="146" vertical-scroll-proportion="0.21654135">
+        <state line="10" column="9" selection-start="250" selection-end="250" vertical-scroll-proportion="0.2706767">
           <folding />
         </state>
       </provider>
