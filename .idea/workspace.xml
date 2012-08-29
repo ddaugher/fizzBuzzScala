@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97a04ef9-52b1-4383-8690-964603f11bd0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" afterPath="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" afterPath="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" />
     </list>
     <ignored path="fizzBuzzScala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,19 +60,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FizzBuzz.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FizzBuzz.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="1" selection-start="88" selection-end="88" vertical-scroll-proportion="0.1380368">
+            <state line="5" column="1" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTests.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzzTests.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="45" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
+            <state line="33" column="41" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.9110429">
               <folding />
             </state>
           </provider>
@@ -95,8 +95,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/FizzBuzz/FizzBuzz.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/FizzBuzzTests.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/FizzBuzz/FizzBuzzTests.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" />
       </list>
     </option>
   </component>
@@ -442,16 +442,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="45" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
+        <state line="5" column="1" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="1" selection-start="88" selection-end="88" vertical-scroll-proportion="0.1380368">
+        <state line="33" column="41" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.9110429">
           <folding />
         </state>
       </provider>
