@@ -16,10 +16,7 @@ class FizzBuzz {
       return "Fizz"
     }
 
-    (num % 3) match {
-      case (0) => "Fizz"
-      case _ => ""
-    }
+    performModCalc(num, 3, "Fizz")
   }
 
   private def calculateBuzz(num: Int): String = {
@@ -27,8 +24,12 @@ class FizzBuzz {
       return "Buzz"
     }
 
-    (num % 5) match {
-      case (0) => "Buzz"
+    performModCalc(num, 5, "Buzz")
+  }
+
+  private def performModCalc(num: Int, mod: Int, retString: String): String = {
+    (num % mod) match {
+      case (0) => retString
       case _ => ""
     }
   }
