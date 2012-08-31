@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97a04ef9-52b1-4383-8690-964603f11bd0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" afterPath="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" afterPath="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" />
-    </list>
+    <list default="true" id="97a04ef9-52b1-4383-8690-964603f11bd0" name="Default" comment="" />
     <ignored path="fizzBuzzScala.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
