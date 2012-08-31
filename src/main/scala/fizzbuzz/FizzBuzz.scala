@@ -8,7 +8,7 @@ class FizzBuzz {
 
   private def calculateFizzBuzz(num: Int): String = {
     def string = calculateFizz(num) + calculateBuzz(num)
-    string
+    if (string.isEmpty) num.toString else string
   }
 
   private def calculateFizz(num: Int): String = {
