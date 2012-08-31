@@ -17,6 +17,10 @@ class FizzBuzzTests extends FunSuite {
   test("fizzbuzz returns 'Buzz' when argument is multiple of 5") {
     assert(c.calculate(List(5)) === List("Buzz"))
   }
+  
+  test("fizzbuzz returns '1' when argument 1") {
+    assert(c.calculate(List(1)) === List("1"))
+  }
 
   test("fizzbuzz returns 'FizzBuzz' when argument is multiple of 3 and 5") {
     assert(c.calculate(List(15)) === List("FizzBuzz"))
@@ -32,5 +36,9 @@ class FizzBuzzTests extends FunSuite {
 
   test("fizzbuzz returns list of 'FizzBuzz' when argument list is all multiple of 3 and 5") {
     assert(c.calculate(List(15,30,45,60,75)) === List("FizzBuzz","FizzBuzz","FizzBuzz","FizzBuzz","FizzBuzz"))
+  }
+
+  test("fizzbuzz returns 'ZERO' when argument is 0") {
+    assert(c.calculate(List(0)) === List("ZERO"))
   }
 }
