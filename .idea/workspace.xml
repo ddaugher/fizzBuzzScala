@@ -64,7 +64,7 @@
       <file leaf-file-name="FizzBuzz.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="4" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0">
+            <state line="8" column="18" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -73,7 +73,7 @@
       <file leaf-file-name="FizzBuzzTests.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="2" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.9203007">
+            <state line="41" column="46" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.89323306">
               <folding />
             </state>
           </provider>
@@ -96,8 +96,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/FizzBuzz/FizzBuzz.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/FizzBuzzTests.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/FizzBuzz/FizzBuzzTests.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala" />
       </list>
     </option>
   </component>
@@ -444,14 +444,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/fizzbuzz/FizzBuzz.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="4" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0">
+        <state line="8" column="18" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/fizzbuzz/FizzBuzzTests.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="2" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.9203007">
+        <state line="41" column="46" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.89323306">
           <folding />
         </state>
       </provider>
