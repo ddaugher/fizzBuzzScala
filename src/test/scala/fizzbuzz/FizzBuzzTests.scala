@@ -6,8 +6,12 @@ class FizzBuzzTests extends FunSuite {
 
   val c = new FizzBuzz
 
-  test("fizzbuzz returns 'Fizz' when argument is multiple of 3") {
+  test("fizzbuzz returns 'Fizz' when argument positive and multiple of 3") {
     assert(c.calculate(List(3)) === List("Fizz"))
+  }
+
+  test("fizzbuzz returns 'Fizz' when argument is negative and multiple of 3") {
+    assert(c.calculate(List(-3)) === List("Fizz"))
   }
 
   test("fizzbuzz returns 'Fizz' when argument contains a digit equal to three") {
